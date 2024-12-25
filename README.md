@@ -4,32 +4,52 @@ Test Login
 email - testlogin@proactive.com
 password - #1234Testlogin
 
-## What is Proactive ?
 
-Proactive is a simple tool which helps you to achieve difficult goals quickly.
+
+Proactive is a simple tool which helps you to achieve difficult Task quickly or use it has your day to day convenient tool.
 ok, but how?
 
-before telling how ,lets see why some goals looks difficult.
+## What is Proactive ?
 
-To achieve any new goal it requires time , patience and  consistency.
-Most of us when starts a new goal to learn new thing, we were energetic but after few days or week we loose this energy and drop the plan to achieve that goal and switch to something else.
-Now the questions is why we drop the plan ?
-When the burden of doing it outweighs the joy, you starts forgeting your initial goal.
-Some of these problem can be fixed by proactive.
+Proactive is a versatile tool designed to help you accomplish challenging tasks efficiently or serve as a convenient day-to-day productivity companion.
 
-Features:-
-Task/Notes- When you open your app there ,First thing you will look is the task section, that are the tasks that you have to do that day . 
- (Helps in reducing time to decide what to do next, and have a clear goal for a day).
- 
-Streak :- By adding daily streaks to your tasks ,helps you be consistent and at the end of the day gives statisfaction .
- ( if you break a streak , counter again goes to 0 😭 , so be consistent 🙂).
+#How Does It Work?
+Before explaining how Proactive helps, let’s address why certain goals often feel out of reach:
+1) Achieving new goals requires time, patience, and consistency.
+2) While starting a new journey, enthusiasm is high. However, over time, motivation fades, leading to abandoned plans.
+3) The primary reason? When the effort required outweighs the joy of achievement, initial goals are forgotten.
+Proactive aims to resolve these challenges through a structured approach to productivity.
 
-files vault - save your important files in your personal vault.
- 
-(beta) Group project- When there are many people in a project it is difficult to assign and track which task was given to whome ,This is somewhat can be fixed by this feature
-(share notes files with group member , chat ,assign task in the project)
 
-(beta) Donate - If you like our app , donate via razor pay.
+
+#Features
+
+1. Task/Notes
+Upon opening the app, the Tasks section displays the day’s priorities.
+Benefit: Minimizes decision-making time, ensuring a clear focus on daily objectives.
+
+2. Streaks
+Add streaks to tasks to track daily consistency.
+Benefit: Achieving streaks provides a sense of accomplishment. Breaking a streak resets the counter to zero, encouraging persistence.
+
+3. Files Vault
+Securely save important files in a personal vault.
+
+4. (Beta) Group Projects
+Collaborate seamlessly with group members.
+Share notes and files.
+Chat in real-time.
+Assign and track project tasks.
+Benefit: Simplifies task allocation and tracking in group settings.
+
+5. (Beta) Donate
+Support Proactive through donations via Razorpay.
+
+#Day-to-Day Use Cases
+Ever faced these common issues?
+Transferring files or text between devices (e.g., phone to laptop)?
+Sharing data between virtual machines and local desktops?
+Proactive provides a simple, effective solution for these challenges.
 
 ## Comming Soon......
 Google Calendar Integration
