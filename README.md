@@ -13,7 +13,7 @@ ok, but how?
 
 Proactive is a versatile tool designed to help you accomplish challenging tasks efficiently or serve as a convenient day-to-day productivity companion.
 
-#How Does It Work?
+# How Does It Work?
 Before explaining how Proactive helps, let’s address why certain goals often feel out of reach:
 1) Achieving new goals requires time, patience, and consistency.
 2) While starting a new journey, enthusiasm is high. However, over time, motivation fades, leading to abandoned plans.
@@ -22,7 +22,7 @@ Proactive aims to resolve these challenges through a structured approach to prod
 
 
 
-#Features
+# Features
 
 1. Task/Notes
 Upon opening the app, the Tasks section displays the day’s priorities.
@@ -45,7 +45,7 @@ Benefit: Simplifies task allocation and tracking in group settings.
 5. (Beta) Donate
 Support Proactive through donations via Razorpay.
 
-#Day-to-Day Use Cases
+# Day-to-Day Use Cases
 Ever faced these common issues?
 Transferring files or text between devices (e.g., phone to laptop)?
 Sharing data between virtual machines and local desktops?
