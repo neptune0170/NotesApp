@@ -1,7 +1,6 @@
 # Proactive
 Check the Site -
 https://notesapp-6268f.web.app/#/
-Test Login 
 email - testlogin@proactive.com
 password - #1234Testlogin
 
