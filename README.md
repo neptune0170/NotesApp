@@ -1,13 +1,11 @@
 # Proactive
+Check the Site -
 https://notesapp-6268f.web.app/#/
 Test Login 
 email - testlogin@proactive.com
 password - #1234Testlogin
 
 
-
-Proactive is a simple tool which helps you to achieve difficult Task quickly or use it has your day to day convenient tool.
-ok, but how?
 
 ## What is Proactive ?
 
