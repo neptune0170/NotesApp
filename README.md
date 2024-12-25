@@ -21,25 +21,25 @@ Proactive aims to resolve these challenges through a structured approach to prod
 
 # Features
 
-1. Task/Notes
+1. Task/Notes -
 Upon opening the app, the Tasks section displays the day’s priorities.
 Benefit: Minimizes decision-making time, ensuring a clear focus on daily objectives.
 
-2. Streaks
+2. Streaks - 
 Add streaks to tasks to track daily consistency.
 Benefit: Achieving streaks provides a sense of accomplishment. Breaking a streak resets the counter to zero, encouraging persistence.
 
-3. Files Vault
+3. Files Vault -
 Securely save important files in a personal vault.
 
-4. (Beta) Group Projects
+4. (Beta) Group Projects -
 Collaborate seamlessly with group members.
 Share notes and files.
 Chat in real-time.
 Assign and track project tasks.
 Benefit: Simplifies task allocation and tracking in group settings.
 
-5. (Beta) Donate
+5. (Beta) Donate - 
 Support Proactive through donations via Razorpay.
 
 # Day-to-Day Use Cases
